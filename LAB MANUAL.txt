@@ -1,98 +1,8 @@
-21CSC202J-Operating Systems Lab
 
-21CSC202J - Operating Systems
-LAB MANUAL
 
-Bachelor of Technology
-Semester III
-
-Academic Year: 2023-2024 ODD SEMESTER
-
-COLLEGE OF ENGINEERING AND TECHNOLOGY
-SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
-RAMAPURAM CAMPUS,
-CHENNAI- 600 089
-
-1
-
-21CSC202J-Operating Systems Lab
-
-LIST OF EXPERIMENTS
-
-Experiment Name
-
-Ex.No.
-1
-
-Operating system Installation, Basic Linux commands
-
-2
-
-Process Creation using fork() and Usage of getpid(), getppid(), wait() functions
-
-3
-
-Multithreading
-
-4
-
-Mutual Exclusion using semaphore and monitor
-
-5
-
-Reader-Writer problem
-
-6
-
-Dining Philosopher problem
-
-7
-
-Bankers Algorithm for Deadlock avoidance
-
-8
-
-FCFS and SJF Scheduling
-
-9
-
-Priority and Round robin scheduling
-
-10
-
-FIFO Page Replacement Algorithm
-
-11
-
-LRU and LFU Page Replacement Algorithm
-
-12
-
-Best fit and Worst fit memory management policies
-
-13
-
-Disk Scheduling algorithm
-
-14
-
-Sequential and Indexed file Allocation
-
-15
-
-File organization schemes for single level and two level directory
-
-2
-
-21CSC202J-Operating Systems Lab
 
 Ex.No:1
 
-OPERATING SYSTEM
-INSTALLATION
-
-Ubuntu installation guidelines in windows
-Installing Ubuntu in windows 10- 64 bit
 
 3
 
